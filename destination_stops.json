@@ -1,0 +1,108 @@
+{
+ "Downtown (Victoria Park)": [
+  "0038",
+  "0959",
+  "1356",
+  "1542",
+  "1547",
+  "3998",
+  "4000",
+  "4001",
+  "4002",
+  "4004"
+ ],
+ "University of Regina": [
+  "0248",
+  "0249",
+  "0270",
+  "0271",
+  "0382",
+  "1228",
+  "1586",
+  "1663",
+  "1664"
+ ],
+ "General Hospital": [
+  "0792",
+  "0793",
+  "1062",
+  "1063"
+ ],
+ "Pasqua Hospital": [
+  "0027",
+  "0127"
+ ],
+ "Urgent Care (1320 Albert)": [
+  "0178",
+  "0183",
+  "0233",
+  "0405",
+  "0406"
+ ],
+ "Superstore East": [
+  "0528",
+  "0529",
+  "1233",
+  "1267",
+  "1453"
+ ],
+ "Superstore North (Stockton/Child)": [
+  "1423",
+  "1432"
+ ],
+ "Golden Mile": [
+  "0261",
+  "0584"
+ ],
+ "Victoria Square Mall": [
+  "0520",
+  "0743",
+  "0819",
+  "1038"
+ ],
+ "Southland Mall": [
+  "0601",
+  "0602"
+ ],
+ "Northgate (7th Ave N/Smith)": [
+  "0060",
+  "0088",
+  "0166"
+ ],
+ "Walmart North (Rochdale/Vanstone)": [
+  "1569",
+  "1578"
+ ],
+ "Rochdale Crossing (unconfirmed)": [
+  "0202",
+  "0322",
+  "0323",
+  "0324",
+  "0441",
+  "0442"
+ ],
+ "Sandra Schmirler Leisure Centre": [
+  "0830"
+ ],
+ "Campbell Collegiate": [
+  "0586",
+  "0587",
+  "0788",
+  "0789",
+  "0790"
+ ],
+ "Winston Knoll / Riffel": [
+  "0202",
+  "0203",
+  "0204",
+  "0323",
+  "0439",
+  "0440",
+  "0441",
+  "0442",
+  "1262"
+ ],
+ "Sask Polytechnic": [
+  "0384"
+ ]
+}
